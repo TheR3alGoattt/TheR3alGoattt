@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### `Terminale STI2D` • `Future Developer` • `Tech Enthusiast`
+### `Terminale STI2D` • `Un génie` • `Homme cool`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+GitHub+%F0%9F%91%BE;Terminale+STI2D+%F0%9F%94%A7;J'apprends+%C3%A0+coder+%F0%9F%92%BB;">
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 À propos de moi
+##  À propos de moi
 
 ```yaml
 name: TheR3alGoattt
@@ -29,11 +29,9 @@ Je suis actuellement en **Terminale STI2D** et je m'intéresse de plus en plus a
 
 Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore plusieurs domaines pour trouver celui qui me plaît vraiment.
 
-> 💡 Je préfère tester, créer et apprendre par moi-même plutôt que simplement regarder des tutos.
-
 ---
 
-## ⚡ `./skills`
+## ⚡ `Mes skills (pas tout)`
 
 <div align="center">
 
@@ -44,7 +42,7 @@ Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore pl
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
 
-### 🛠️ Tools
+### 🛠️ Outils
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
@@ -64,8 +62,8 @@ Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore pl
 
 
 ```text
-████████████████░░░░ 00%
-Status: Pas encore dessus
+
+Status: Pas encore dessus..
 ```
 
 ### 🧪 Projet #02
@@ -80,23 +78,17 @@ Déjà pas de premier projet.. donc pas de deuxième...
 
 ## 🎯 Mon chemin
 
-```text
 2026
  │
- ├──  Terminer la Terminale STI2D
+ ├──  Terminer l'année en vie
  │
- ├──  Améliorer mes compétences en programmation
+ ├──  Avoir mon bac (optionnel)
  │
- ├──  Créer davantage de projets
+ ├──  Survivre
  │
- ├──  Trouver le domaine qui me correspond
+ ├──  Devenir le meilleur
  │
- └──  Choisir mon BUT
-       │
-       ├── 💻 Informatique ?
-       ├── ⚙️ Génie électrique / informatique industrielle ?
-       ├── 🌐 Réseaux & télécoms ?
-       └── ❓ Peut-être autre chose...
+ └──  Trouver ma voie
 ```
 
 ---
@@ -120,8 +112,8 @@ Déjà pas de premier projet.. donc pas de deuxième...
 ```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║       "Je ne sais pas ou je vais.            ║
-║        Mais j'y vais."                       ║
+║       "Je vais réussir, de toute             ║
+║        façon j'ai pas le choix"              ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
@@ -144,7 +136,7 @@ Déjà pas de premier projet.. donc pas de deuxième...
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheR3alGoattt\&color=8B5CF6\&style=flat-square\&label=PROFILE+VIEWS)
 
-### `> Je serai le meilleur. ⚡`
+### ` Je serai le meilleur. ⚡`
 
 </div>
 
