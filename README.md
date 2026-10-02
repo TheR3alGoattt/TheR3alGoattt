@@ -49,7 +49,6 @@ Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore pl
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
 
 </div>
 
@@ -63,7 +62,6 @@ Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore pl
 
 **`Il y aura quelque chose ici un jour..`**
 
-Un projet personnel pour expérimenter et apprendre de nouvelles technologies.
 
 ```text
 ████████████████░░░░ 00%
@@ -77,15 +75,6 @@ Status: Pas encore dessus
 Déjà pas de premier projet.. donc pas de deuxième...
 
 ```text
-> npm run create-project
-
-Creating something...
-████████████████████ 100%
-
-✓ Project created
-✓ Brain cells consumed
-✓ Bug generated
-```
 
 ---
 
