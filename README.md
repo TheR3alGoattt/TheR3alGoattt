@@ -4,7 +4,7 @@
 
 ### `Terminale STI2D` • `Future Developer` • `Tech Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+GitHub+%F0%9F%91%BE;Terminale+STI2D+%F0%9F%94%A7;J'apprends+%C3%A0+coder+%F0%9F%92%BB;Future+%C3%A9tudiant+en+BUT+%3F+%F0%9F%A4%94;Building+%7C+Learning+%7C+Breaking+%7C+Fixing">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+GitHub+%F0%9F%91%BE;Terminale+STI2D+%F0%9F%94%A7;J'apprends+%C3%A0+coder+%F0%9F%92%BB;">
 
 </div>
 
@@ -17,14 +17,12 @@ name: TheR3alGoattt
 status: Terminale STI2D
 location: France 🇫🇷
 
-currently:
+Objectif:
   - 🎓 Finir ma Terminale STI2D
   - 💻 Développer mes compétences en programmation
   - 🧪 Expérimenter avec différents projets
   - 🧭 Chercher le BUT qui me correspond
 
-goal:
-  "Trouver ma voie dans la tech et construire des trucs cool."
 ```
 
 Je suis actuellement en **Terminale STI2D** et je m'intéresse de plus en plus au développement, à l'informatique et aux nouvelles technologies.
