@@ -57,24 +57,24 @@ Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore pl
 
 ## 🚧 Projets
 
-> *Work in progress... 👀*
+> *ça arrivera un jour... 👀*
 
 ### 🔮 Projet #01
 
-**`Coming soon...`**
+**`Il y aura quelque chose ici un jour..`**
 
 Un projet personnel pour expérimenter et apprendre de nouvelles technologies.
 
 ```text
-████████████████░░░░ 80%
-Status: WORKING ON IT
+████████████████░░░░ 00%
+Status: Pas encore dessus
 ```
 
 ### 🧪 Projet #02
 
-**`Experimentation Lab`**
+**` je ne sais pas encore...`**
 
-Un espace pour tester différentes idées, langages et concepts.
+Déjà pas de premier projet.. donc pas de deuxième...
 
 ```text
 > npm run create-project
@@ -89,20 +89,20 @@ Creating something...
 
 ---
 
-## 🎯 Roadmap
+## 🎯 Mon chemin
 
 ```text
 2026
  │
- ├── 🎓 Terminer la Terminale STI2D
+ ├──  Terminer la Terminale STI2D
  │
- ├── 💻 Améliorer mes compétences en programmation
+ ├──  Améliorer mes compétences en programmation
  │
- ├── 🧪 Créer davantage de projets
+ ├──  Créer davantage de projets
  │
- ├── 🧭 Trouver le domaine qui me correspond
+ ├──  Trouver le domaine qui me correspond
  │
- └── 🎓 Choisir mon BUT
+ └──  Choisir mon BUT
        │
        ├── 💻 Informatique ?
        ├── ⚙️ Génie électrique / informatique industrielle ?
@@ -112,7 +112,7 @@ Creating something...
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Mes Stats
 
 <div align="center">
 
