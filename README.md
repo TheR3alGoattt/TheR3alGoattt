@@ -124,25 +124,15 @@ Creating something...
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/TheR3alGoattt/TheR3alGoattt/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💭 Current mindset
+## 💭 Mentalité en or
 
 <div align="center">
 
 ```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║       "I don't know the destination yet.    ║
-║        I'm building my way there."          ║
+║       "Je ne sais pas ou je vais.            ║
+║        Mais j'y vais."                       ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
@@ -165,7 +155,7 @@ Creating something...
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheR3alGoattt\&color=8B5CF6\&style=flat-square\&label=PROFILE+VIEWS)
 
-### `> Keep coding. Keep experimenting. Keep going. ⚡`
+### `> Je serai le meilleur. ⚡`
 
 </div>
 
