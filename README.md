@@ -76,7 +76,7 @@ Déjà pas de premier projet.. donc pas de deuxième...
 
 ---
 
-##  Mon chemin
+Mon chemin
 
 2026
  │
