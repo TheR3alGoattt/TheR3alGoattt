@@ -13,15 +13,15 @@
 ##  À propos de moi
 
 ```yaml
-name: TheR3alGoattt
-status: Terminale STI2D
-location: France 🇫🇷
+Pseudo: TheR3alGoattt
+Classe: Terminale STI2D
+location: France
 
 Objectif:
-  - 🎓 Finir ma Terminale STI2D
-  - 💻 Développer mes compétences en programmation
-  - 🧪 Expérimenter avec différents projets
-  - 🧭 Chercher le BUT qui me correspond
+  -  Finir ma Terminale STI2D
+  -  Développer mes compétences en programmation
+  -  Expérimenter avec différents projets
+  -  Chercher le BUT qui me correspond
 
 ```
 
@@ -31,18 +31,18 @@ Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore pl
 
 ---
 
-## ⚡ `Mes skills (pas tout)`
+##  `Mes skills (je sais pas tous les faire)`
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
 
-### 🛠️ Outils
+###  Outils
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
@@ -52,11 +52,11 @@ Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore pl
 
 ---
 
-## 🚧 Projets
+##  Projets
 
 > *ça arrivera un jour... 👀*
 
-### 🔮 Projet #01
+###  Projet #01
 
 **`Il y aura quelque chose ici un jour..`**
 
@@ -66,7 +66,7 @@ Je ne sais pas encore exactement vers quel **BUT** m'orienter, donc j'explore pl
 Status: Pas encore dessus..
 ```
 
-### 🧪 Projet #02
+###  Projet #02
 
 **` je ne sais pas encore...`**
 
@@ -76,7 +76,7 @@ Déjà pas de premier projet.. donc pas de deuxième...
 
 ---
 
-## 🎯 Mon chemin
+##  Mon chemin
 
 2026
  │
@@ -93,19 +93,18 @@ Déjà pas de premier projet.. donc pas de deuxième...
 
 ---
 
-## 📊 Mes Stats
+##  Mes Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheR3alGoattt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9"/>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=TheR3alGoattt&theme=midnight&custom_title=The+Goat)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheR3alGoattt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-## 💭 Mentalité en or
+##  Mentalité en or
 
 <div align="center">
 
@@ -122,7 +121,7 @@ Déjà pas de premier projet.. donc pas de deuxième...
 
 ---
 
-## 📡 Connect
+##  Connect
 
 <div align="center">
 
@@ -136,7 +135,7 @@ Déjà pas de premier projet.. donc pas de deuxième...
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheR3alGoattt\&color=8B5CF6\&style=flat-square\&label=PROFILE+VIEWS)
 
-### ` Je serai le meilleur. ⚡`
+### ` Je serai le meilleur. `
 
 </div>
 
